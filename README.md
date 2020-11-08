@@ -2,8 +2,11 @@
 A python code that helps you to Shorten link in a click in terminal Commands for terminal
 $ pkg install python3
 $ git clone https://github.com/DJshalani/DJsh_web-hoster
+
 $ cd DJsh_web-hoster/
+
 $ ls
+
 $ python3 shalani-web-hoster.py -p (port) -t (target path)
 
 
